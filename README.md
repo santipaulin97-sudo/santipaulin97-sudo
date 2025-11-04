@@ -1,22 +1,21 @@
-# 👋 Hi there! I'm Santiago Paulin
+#  Hi there! I'm Santiago Paulin 👋 
 
 ### Data Engineer & Financial Data Analyst  
-🔹 Python · SQL · BigQuery · Data Modeling  
-🔹 Power BI · ETL/ELT · Cloud Pipelines  
-🔹 AI & Automation (n8n · Verdi Flow)  
-🔹 E-commerce Logistics & Risk Controls
+💡 E-commerce Logistics | 📦 Risk Controls | ☁️ Cloud Data Pipelines  
+
+🌍 **Multilingual:** English 🇺🇸 · Spanish 🇦🇷 · Italian 🇮🇹 · French 🇫🇷 · Portuguese 🇧🇷  
 
 ---
 
 ## 🚀 What I Do
 
-I transform data into reliable and actionable insights:
+I turn complex operational and financial data into scalable, automated, and decision-driven solutions:
 
-- Design and optimization of end-to-end data pipelines
-- Automation of operational and financial processes
-- Integration with APIs, WMS/OMS/ERP, and logistics systems
-- BI dashboards and performance monitoring
-- Data quality and controls to ensure trustworthy decisions
+- ✅ Design, build & optimize **end-to-end data pipelines**
+- ✅ **Operational automation** with APIs, system integrations & workflows
+- ✅ Data modeling for **logistics performance & cost analytics**
+- ✅ **BI Dashboards** that unlock visibility & accountability
+- ✅ **Data quality controls** to detect risk and prevent financial loss  
 
 ---
 
@@ -24,20 +23,42 @@ I transform data into reliable and actionable insights:
 
 | Category | Technologies |
 |----------|-------------|
-| Languages | Python, SQL |
-| Data & Cloud | BigQuery, SQL Server, PostgreSQL, dbt |
-| Visualization | Power BI, Looker Studio |
-| Automation | n8n, Verdi Flow, Webhooks |
+| Languages | Python 🐍, SQL 🧠 |
+| Data & Cloud | BigQuery, PostgreSQL, SQL Server, dbt |
+| Workflow & Processing | Airflow (familiar), n8n ⚙️, Verdi Flow |
+| Visualization | Power BI 📊, Looker Studio |
 | Dev Tools | Git, VS Code |
 
 ---
 
 ## 📈 Experience & Focus Areas
 
-- **Data Engineering & Analytics** for logistics and finance
-- KPI modeling: SLA, cost efficiency, shipping performance, tariffs
-- High-impact workflow automation for operations and reporting
-- Data-driven decision support for large-scale environments
+🎯 Specialized in **E-commerce logistics & financial reporting**  
+🛡️ Current focus: **Risk controls & data quality for large-scale operations**
+
+- Shipping performance & SLA control  
+- Cost & tariff modeling (per country, site, carrier, lane, product type)  
+- Fraud & risk monitoring in fulfillment and warehouse processes  
+- Real-time tracking & exception handling  
+- KPI frameworks to support business scaling  
+
+🏢 **Professional Background**
+- **Accenture** — Financial Data Analyst supporting multinational operations  
+- **Current role** — Data Engineering with a strong focus on risk management, anomaly detection, and operational reliability in e-commerce logistics
+
+I thrive in environments where **data reliability and automation** are mission-critical.
+
+---
+
+## 🌐 Languages
+
+| Language | Level |
+|----------|------|
+| English | Advanced / C1 |
+| Spanish | Native |
+| Italian | Advanced / C1 |
+| French | Upper-Intermediate / B2 |
+| Portuguese | Intermediate / B1 |
 
 ---
 
@@ -45,8 +66,10 @@ I transform data into reliable and actionable insights:
 
 ✉️ **Email:** santiagopaulin97@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/santiago-paulin  
-🐙 **GitHub:** https://github.com/santipalin97-sudo
+🐙 **GitHub:** https://github.com/santipalin97-sudo  
 
 ---
 
-⭐ If you find value in my work, feel free to leave a star!
+✨ If my work aligns with your needs, I’d love to collaborate!
+
+
