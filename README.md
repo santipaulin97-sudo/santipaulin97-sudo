@@ -68,7 +68,7 @@ I thrive in environments where **data reliability and automation** are mission-c
 
 ✉️ **Email:** santiagopaulin97@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/santiago-paulin  
-🐙 **GitHub:** https://github.com/santipalin97-sudo  
+🐙 **GitHub:** https://santipaulin97-sudo.github.io/santipaulin97.github.io/
 
 ---
 
