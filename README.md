@@ -43,6 +43,8 @@ I turn complex operational and financial data into scalable, automated, and deci
 - KPI frameworks to support business scaling  
 
 🏢 **Professional Background**
+- **Dilcor** - Data Analyst and reporting 
+- **Airadigm Solutions, US** — Financial Analyst   
 - **Accenture** — Financial Data Analyst supporting multinational operations  
 - **Current role** — Data Engineering with a strong focus on risk management, anomaly detection, and operational reliability in e-commerce logistics
 
