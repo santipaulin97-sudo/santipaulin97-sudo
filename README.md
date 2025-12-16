@@ -27,7 +27,7 @@ I turn complex operational and financial data into scalable, automated, and deci
 | Data & Cloud | BigQuery, PostgreSQL, SQL Server, dbt |
 | Workflow & Processing | Airflow (familiar), n8n ⚙️, Verdi Flow |
 | Visualization | Power BI 📊, Looker Studio |
-| Dev Tools | Git, VS Code |
+| Dev Tools | Git - VS Code |
 
 ---
 
